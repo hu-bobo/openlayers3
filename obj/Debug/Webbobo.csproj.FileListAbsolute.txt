@@ -1,0 +1,5 @@
+C:\Users\bobo\Desktop\web\Webbobo\Webbobo\bin\Webbobo.dll
+C:\Users\bobo\Desktop\web\Webbobo\Webbobo\bin\Webbobo.pdb
+C:\Users\bobo\Desktop\web\Webbobo\Webbobo\obj\Debug\Webbobo.dll
+C:\Users\bobo\Desktop\web\Webbobo\Webbobo\obj\Debug\Webbobo.pdb
+C:\Users\bobo\Desktop\web\Webbobo\Webbobo\obj\Debug\Webbobo.csprojResolveAssemblyReference.cache
